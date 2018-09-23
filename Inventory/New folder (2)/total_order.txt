@@ -1,0 +1,35 @@
+USE [searchm_inventory]
+GO
+
+/****** Object:  Table [dbo].[total_order]    Script Date: 12/24/2016 20:31:12 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[total_order](
+	[order_cat] [varchar](50) NULL,
+	[req_id] [int] NULL,
+	[date] [varchar](50) NULL,
+	[total_price] [int] NULL,
+	[username] [varchar](50) NULL,
+	[status] [varchar](50) NULL,
+	[session] [varchar](50) NULL
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+
+
+
+
+
+
+

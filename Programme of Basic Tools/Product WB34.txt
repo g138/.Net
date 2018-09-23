@@ -1,0 +1,194 @@
+/////////////////////////////DEFAULT 2
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Data;
+using System.Data.SqlClient;
+
+public partial class Default2 : System.Web.UI.Page
+{
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        if (Page.IsPostBack == false)
+        {
+            TextBox1.Text = Convert.ToString(getauto());
+        }
+    }
+
+    private Int32 getauto()
+    {
+        SqlConnection con = new SqlConnection();
+        con.ConnectionString = "Server=GAURAV;database=product;uid=sa;pwd=sa123"; 
+        con.Open();
+        SqlCommand cmd = new SqlCommand();
+
+        cmd.CommandText = "select isnull(max(cid),100) from category";
+
+        cmd.Connection = con;
+        return Convert.ToInt32(cmd.ExecuteScalar()) + 1;
+
+    }
+    protected void Button1_Click(object sender, EventArgs e)
+    {
+        SqlConnection con = new SqlConnection();
+        con.ConnectionString = "Server=GAURAV;database=product;uid=sa;pwd=sa123";
+        con.Open();
+        SqlCommand cmd = new SqlCommand();
+
+        cmd.CommandText = "insert into category values(@cid , @cn)";
+        cmd.Connection = con;
+        cmd.Parameters.Add("@cid", SqlDbType.Int).Value = Convert.ToInt32(TextBox1.Text);
+        cmd.Parameters.Add("@cn", SqlDbType.Char,40).Value =(TextBox2.Text);
+        cmd.ExecuteNonQuery();
+        cmd.Dispose();
+        con.Close();
+        TextBox2.Text = "";
+
+    }
+    protected void Button2_Click(object sender, EventArgs e)
+    {
+        Response.Redirect("Default3.aspx");
+    }
+}
+
+
+////////////////////////////////////DEFAULT3
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Data;
+using System.Data.SqlClient;
+
+public partial class Default3 : System.Web.UI.Page
+{
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        if (Page.IsPostBack == false)
+        {
+            bind();
+            TextBox3.Text = Convert.ToString(getauto());
+
+        }
+    }
+    protected void TextBox1_TextChanged(object sender, EventArgs e)
+    {
+
+    }
+
+    private void bind()
+    {
+        SqlDataAdapter adp = new SqlDataAdapter("select * from category", "server=GAURAV;database=product;uid=sa;pwd=sa123");
+        DataSet ds = new DataSet();
+        adp.Fill(ds);
+        DropDownList1.DataSource = ds;
+        DropDownList1.DataBind();
+    }
+
+    private Int32 getauto()
+    {
+        SqlConnection con = new SqlConnection();
+        con.ConnectionString = "Server=GAURAV;database=product;uid=sa;pwd=sa123"; 
+        con.Open();
+        SqlCommand cmd = new SqlCommand();
+
+        cmd.CommandText = "select isnull(max(pid),1000) from product";
+
+        cmd.Connection = con;
+        return Convert.ToInt32(cmd.ExecuteScalar()) + 1;
+    }
+
+
+    protected void Button1_Click(object sender, EventArgs e)
+    {
+        SqlConnection con = new SqlConnection();
+        con.ConnectionString = "Server=GAURAV;database=product;uid=sa;pwd=sa123";
+        con.Open();
+        SqlCommand cmd = new SqlCommand();
+
+        cmd.CommandText = "insert into product values(@cid,@cname,@pid,@pn,@pd,@w,@pr,@co)";
+        cmd.Connection = con;
+        
+        cmd.Parameters.Add("@cid", SqlDbType.Int).Value =Convert.ToInt32 (DropDownList1.SelectedValue);
+        cmd.Parameters.Add("@cname", SqlDbType.Char,40).Value = Convert.ToString(DropDownList1.SelectedItem);
+        cmd.Parameters.Add("@pid", SqlDbType.Int).Value = Convert.ToInt32(TextBox3.Text);
+        cmd.Parameters.Add("@pn", SqlDbType.Char,40).Value = (TextBox4.Text);
+        cmd.Parameters.Add("@pd", SqlDbType.VarChar,40).Value = (TextBox5.Text);
+        cmd.Parameters.Add("@w", SqlDbType.VarChar,40).Value = (TextBox6.Text);
+        cmd.Parameters.Add("@pr", SqlDbType.Int).Value = Convert.ToInt32(TextBox7.Text);
+        cmd.Parameters.Add("@co", SqlDbType.Char,40).Value = (TextBox8.Text);
+        cmd.ExecuteNonQuery();
+        cmd.Dispose();
+        con.Close();
+       
+    }
+    protected void DropDownList1_SelectedIndexChanged(object sender, EventArgs e)
+    {
+       
+    }
+    protected void Button2_Click(object sender, EventArgs e)
+    {
+        Response.Redirect("Default4.aspx");
+    }
+}
+
+//////////////////////////////////////////DEFAULT4
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Data;
+using System.Data.SqlClient;
+
+public partial class Default4 : System.Web.UI.Page
+{
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        if (Page.IsPostBack == false)
+        {
+            bind();
+            view_productinfo();
+        }
+    }
+
+    private void view_productinfo()
+    {
+        string c = (DropDownList1.SelectedItem.Text);
+        SqlDataAdapter adp = new SqlDataAdapter("select cid,pid,pname,pdis,weight,price,comname from product where cname='" + c + "'", "server=GAURAV;database=product;uid=sa;pwd=sa123");
+        DataSet ds = new DataSet();
+        adp.Fill(ds);
+        GridView1.DataSource = ds;
+        GridView1.DataBind();
+    }
+
+
+    private void bind()
+    {
+        SqlDataAdapter adp = new SqlDataAdapter("Select * from category", "server=GAURAV;database=product;uid=sa;pwd=sa123");
+        DataSet ds = new DataSet();
+        adp.Fill(ds);
+        DropDownList1.DataSource = ds;
+        DropDownList1.DataBind();
+    }
+
+
+    protected void DropDownList1_SelectedIndexChanged(object sender, EventArgs e)
+    {
+        view_productinfo();
+    }
+    protected void GridView1_SelectedIndexChanged(object sender, EventArgs e)
+    {
+
+    }
+}

@@ -1,0 +1,85 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Data;
+using System.Data.SqlClient;
+
+public partial class Default2 : System.Web.UI.Page
+{
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        if (Page.IsPostBack == false)
+        {
+            bind();
+            select();
+        }
+    }
+
+    private void bind()
+    {
+        SqlConnection con1 = new SqlConnection();
+        con1.ConnectionString = "Server=GAURAV;database=product;uid=sa;pwd=sa123";
+        con1.Open(); 
+		
+        SqlCommand cmd = new SqlCommand();
+        cmd.CommandText = "select * from protable ";
+        cmd.Connection = con1;
+        SqlDataReader dr;
+        dr = cmd.ExecuteReader();
+        Int32 i;
+        for (i = 0; i < dr.FieldCount; i++)
+        {
+            CheckBoxList1.Items.Add(dr.GetName(i).ToString());
+        }
+
+    }
+
+    private void select()
+    {
+        String d = "";
+        Int32 i;
+
+        for (i = 0; i < CheckBoxList1.Items.Count; i++)
+        {
+            if (CheckBoxList1.Items[i].Selected == true)
+            {
+                d = d + CheckBoxList1.Items[i].Text + ",";
+            }
+
+        }
+        if (d.Length != 0)
+        {
+            d = d.Substring(0, d.Length - 1);//removes "," from d
+        }
+        Response.Write(d);
+        String st;
+        if (d == "")
+        {
+            d = "pid";
+        }
+        st = "select " + d + " from protable ";
+
+
+        SqlDataAdapter adp = new SqlDataAdapter(st, "server=GAURAV;database=product;uid=sa;pwd=sa123");
+        DataSet ds = new DataSet();
+        adp.Fill(ds);
+        GridView1.DataSource = ds;
+        GridView1.DataBind();				
+			
+		
+		
+		
+    }
+
+    protected void CheckBox1_CheckedChanged(object sender, EventArgs e)
+    {
+
+    }
+    protected void CheckBoxList1_SelectedIndexChanged(object sender, EventArgs e)
+    {
+        select();
+    }
+}

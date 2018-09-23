@@ -1,0 +1,415 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9649FD1A-8586-41BB-8D2D-F77286C5BB20}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication5</RootNamespace>
+    <AssemblyName>WindowsFormsApplication5</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="delete_purchase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_purchase.Designer.cs">
+      <DependentUpon>delete_purchase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_supplier.Designer.cs">
+      <DependentUpon>delete_supplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_vendor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_vendor.Designer.cs">
+      <DependentUpon>delete_vendor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="create_customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="create_customer.Designer.cs">
+      <DependentUpon>create_customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="manufacture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="manufacture.Designer.cs">
+      <DependentUpon>manufacture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="testing1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="testing1.Designer.cs">
+      <DependentUpon>testing1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view_issue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view_issue.Designer.cs">
+      <DependentUpon>view_issue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="issue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="issue.Designer.cs">
+      <DependentUpon>issue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="purchase_info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="purchase_info.Designer.cs">
+      <DependentUpon>purchase_info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sale.Designer.cs">
+      <DependentUpon>sale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="update_parts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="update_parts.Designer.cs">
+      <DependentUpon>update_parts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_patrs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_patrs.Designer.cs">
+      <DependentUpon>delete_patrs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view_sale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view_sale.Designer.cs">
+      <DependentUpon>view_sale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view_sub_assembly.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view_sub_assembly.Designer.cs">
+      <DependentUpon>view_sub_assembly.cs</DependentUpon>
+    </Compile>
+    <Compile Include="update_sub_assembly.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="update_sub_assembly.Designer.cs">
+      <DependentUpon>update_sub_assembly.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_sub_assembly.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_sub_assembly.Designer.cs">
+      <DependentUpon>delete_sub_assembly.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view_machine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view_machine.Designer.cs">
+      <DependentUpon>view_machine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="update_machine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="update_machine.Designer.cs">
+      <DependentUpon>update_machine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_machine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_machine.Designer.cs">
+      <DependentUpon>delete_machine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="update_password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="update_password.Designer.cs">
+      <DependentUpon>update_password.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view_customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view_customer.Designer.cs">
+      <DependentUpon>view_customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form20.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form20.Designer.cs">
+      <DependentUpon>Form20.cs</DependentUpon>
+    </Compile>
+    <Compile Include="update_customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="update_customer.Designer.cs">
+      <DependentUpon>update_customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menu.Designer.cs">
+      <DependentUpon>menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete_customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete_customer.Designer.cs">
+      <DependentUpon>delete_customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="create_parts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="create_parts.Designer.cs">
+      <DependentUpon>create_parts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sub_assembly_information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sub_assembly_information.Designer.cs">
+      <DependentUpon>sub_assembly_information.cs</DependentUpon>
+    </Compile>
+    <Compile Include="machine_information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="machine_information.Designer.cs">
+      <DependentUpon>machine_information.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view_pats.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view_pats.Designer.cs">
+      <DependentUpon>view_pats.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="purchase_update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="purchase_update.Designer.cs">
+      <DependentUpon>purchase_update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="purchase_view.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="purchase_view.Designer.cs">
+      <DependentUpon>purchase_view.cs</DependentUpon>
+    </Compile>
+    <Compile Include="supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="supplier.Designer.cs">
+      <DependentUpon>supplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update_Supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update_Supplier.Designer.cs">
+      <DependentUpon>Update_Supplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view_supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view_supplier.Designer.cs">
+      <DependentUpon>view_supplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view_vendor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view_vendor.Designer.cs">
+      <DependentUpon>view_vendor.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="delete_purchase.resx">
+      <DependentUpon>delete_purchase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_supplier.resx">
+      <DependentUpon>delete_supplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_vendor.resx">
+      <DependentUpon>delete_vendor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="create_customer.resx">
+      <DependentUpon>create_customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="manufacture.resx">
+      <DependentUpon>manufacture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="testing1.resx">
+      <DependentUpon>testing1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view_issue.resx">
+      <DependentUpon>view_issue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="issue.resx">
+      <DependentUpon>issue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="purchase_info.resx">
+      <DependentUpon>purchase_info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sale.resx">
+      <DependentUpon>sale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="update_parts.resx">
+      <DependentUpon>update_parts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_patrs.resx">
+      <DependentUpon>delete_patrs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view_sale.resx">
+      <DependentUpon>view_sale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view_sub_assembly.resx">
+      <DependentUpon>view_sub_assembly.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="update_sub_assembly.resx">
+      <DependentUpon>update_sub_assembly.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_sub_assembly.resx">
+      <DependentUpon>delete_sub_assembly.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view_machine.resx">
+      <DependentUpon>view_machine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="update_machine.resx">
+      <DependentUpon>update_machine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_machine.resx">
+      <DependentUpon>delete_machine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="update_password.resx">
+      <DependentUpon>update_password.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view_customer.resx">
+      <DependentUpon>view_customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form20.resx">
+      <DependentUpon>Form20.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="update_customer.resx">
+      <DependentUpon>update_customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menu.resx">
+      <DependentUpon>menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete_customer.resx">
+      <DependentUpon>delete_customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="create_parts.resx">
+      <DependentUpon>create_parts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sub_assembly_information.resx">
+      <DependentUpon>sub_assembly_information.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="machine_information.resx">
+      <DependentUpon>machine_information.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view_pats.resx">
+      <DependentUpon>view_pats.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="purchase_update.resx">
+      <DependentUpon>purchase_update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="purchase_view.resx">
+      <DependentUpon>purchase_view.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="supplier.resx">
+      <DependentUpon>supplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update_Supplier.resx">
+      <DependentUpon>Update_Supplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view_supplier.resx">
+      <DependentUpon>view_supplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view_vendor.resx">
+      <DependentUpon>view_vendor.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

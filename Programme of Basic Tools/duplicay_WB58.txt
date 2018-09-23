@@ -1,0 +1,86 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Data.SqlClient;
+using System.Data;
+
+public partial class Default2 : System.Web.UI.Page
+{
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        if (Page.IsPostBack == false)
+        {
+            TextBox1.Text = Convert.ToString(getauto());
+        }
+    }
+
+    private Int32 getauto()
+    {
+        SqlConnection con = new SqlConnection();
+        con.ConnectionString = "Server=GAURAV;database=duplicate_cont;uid=sa;pwd=sa123";
+        con.Open();
+        SqlCommand cmd = new SqlCommand();
+        cmd.Connection = con;
+        cmd.CommandText = "Select isnull(max(id),1000) from stuinfo";
+
+        return Convert.ToInt32(cmd.ExecuteScalar()) + 1;
+    }
+
+
+
+    protected void Button1_Click(object sender, EventArgs e)
+    {
+        SqlConnection conc = new SqlConnection();
+        conc.ConnectionString = "Server=GAURAV;database=duplicate_cont;uid=sa;pwd=sa123";
+        conc.Open();
+        SqlCommand cmd = new SqlCommand();
+        cmd.CommandText = "select * from stuinfo where cont=@c and email=@eid";
+        cmd.Connection = conc;
+        cmd.Parameters.Add("@c", SqlDbType.VarChar, 50).Value = (TextBox4.Text);
+        cmd.Parameters.Add("@eid", SqlDbType.VarChar, 50).Value = (TextBox5.Text);
+        cmd.ExecuteNonQuery();
+        SqlDataReader dr;
+        dr = cmd.ExecuteReader();
+
+        if (dr.HasRows)
+        {
+           
+            Response.Write("sorry");
+            TextBox2.Text = "";
+            TextBox3.Text = "";
+            TextBox4.Text = "";
+            TextBox5.Text = "";
+
+            
+        }
+        else
+        {
+
+            SqlConnection conc1 = new SqlConnection();
+            conc1.ConnectionString = "Server=GAURAV;database=duplicate_cont;uid=sa;pwd=sa123";
+            conc1.Open();
+            SqlCommand cmd1 = new SqlCommand();
+            cmd1.CommandText = "insert into stuinfo values(@id,@name,@fname,@cont,@eid)";
+            cmd1.Connection = conc1;
+            cmd1.Parameters.Add("@id", SqlDbType.VarChar, 50).Value = (TextBox1.Text);
+            cmd1.Parameters.Add("@name", SqlDbType.VarChar, 50).Value = (TextBox2.Text);
+            cmd1.Parameters.Add("@fname", SqlDbType.VarChar, 50).Value = (TextBox3.Text);
+            cmd1.Parameters.Add("@cont", SqlDbType.VarChar, 50).Value = (TextBox4.Text);
+            cmd1.Parameters.Add("@eid", SqlDbType.VarChar, 50).Value = (TextBox5.Text);
+
+            cmd1.ExecuteNonQuery();
+            cmd1.Dispose();
+            conc1.Close();
+            TextBox1.Text = Convert.ToString(getauto());
+            TextBox2.Text = "";
+            TextBox3.Text = "";
+            TextBox4.Text = "";
+            TextBox5.Text = "";
+        }
+        cmd.Dispose();
+        conc.Close();
+    }
+}

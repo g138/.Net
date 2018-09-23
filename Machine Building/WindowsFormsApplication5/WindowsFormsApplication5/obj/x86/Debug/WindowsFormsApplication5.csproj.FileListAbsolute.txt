@@ -1,0 +1,575 @@
+C:\Users\Vasudev\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Vasudev\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\Vasudev\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Vasudev\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\Vasudev\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Vasudev\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\Vasudev\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\Vasudev\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\Vasudev\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form2.resources
+C:\Users\Vasudev\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form3.resources
+C:\Users\Vasudev\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form4.resources
+C:\Users\Vasudev\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form5.resources
+C:\Users\Vasudev\Documents\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form6.resources
+C:\Users\Vasudev\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form7.resources
+C:\Users\Vasudev\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form8.resources
+C:\Users\Vasudev\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form10.resources
+C:\Users\Vasudev\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form11.resources
+C:\Users\Vasudev\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form12.resources
+C:\Users\Vasudev\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form9.resources
+C:\Users\Vasudev\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form13.resources
+C:\Users\Vasudev\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form14.resources
+C:\Users\Vasudev\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form15.resources
+C:\Users\Vasudev\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form16.resources
+C:\Users\Vasudev\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form17.resources
+C:\Users\Vasudev\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form18.resources
+C:\Users\Vasudev\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form19.resources
+C:\Users\Vasudev\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form20.resources
+C:\Users\Vasudev\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_vendor.resources
+C:\Users\Vasudev\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_vendor.resources
+C:\Users\Vasudev\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_update.resources
+C:\Users\Vasudev\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_add.resources
+C:\Users\Vasudev\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_view.resources
+C:\Users\Vasudev\documents\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_purchase.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_purchase.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_vendor.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form10.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form11.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form12.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form13.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form14.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form15.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form16.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form17.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form18.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form19.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form2.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form20.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form3.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form4.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form5.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form6.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form7.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form8.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form9.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_add.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_update.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_view.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_vendor.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.supplier.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_supplier.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_supplier.resources
+C:\Users\kj\Desktop\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Update_Supplier.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_purchase.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_supplier.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_vendor.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.create_customer.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_parts.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_patrs.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_sub_assembly.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_sub_assembly.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_sub_assembly.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_customer.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form20.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_customer.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.menu.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_customer.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.create_parts.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.sub_assembly_information.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.machine_information.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_pats.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_add.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_update.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_view.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.supplier.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Update_Supplier.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_supplier.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_vendor.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_machine.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_machine.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_machine.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_password.resources
+C:\Users\kj\Desktop\24-07-2017\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.login.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_purchase.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_supplier.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_vendor.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.create_customer.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_parts.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_patrs.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_sub_assembly.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_sub_assembly.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_sub_assembly.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_machine.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_machine.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_machine.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_password.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.login.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_customer.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form20.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_customer.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.menu.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_customer.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.create_parts.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.sub_assembly_information.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.machine_information.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_pats.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_add.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_update.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_view.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.supplier.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Update_Supplier.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_supplier.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_vendor.resources
+C:\Users\kj\Desktop\24-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_purchase.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_supplier.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_vendor.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.create_customer.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_info.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_parts.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_patrs.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_sub_assembly.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_sub_assembly.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_sub_assembly.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_machine.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_machine.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_machine.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_password.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.login.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_customer.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form20.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_customer.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.menu.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_customer.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.create_parts.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.sub_assembly_information.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.machine_information.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_pats.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_add.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_update.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_view.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.supplier.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Update_Supplier.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_supplier.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_vendor.resources
+C:\Users\kj\Desktop\25-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_purchase.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_supplier.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_vendor.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.create_customer.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_info.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_parts.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_patrs.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_sub_assembly.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_sub_assembly.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_sub_assembly.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_machine.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_machine.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_machine.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_password.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.login.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_customer.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form20.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_customer.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.menu.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_customer.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.create_parts.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.sub_assembly_information.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.machine_information.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_pats.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_add.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_update.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_view.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.supplier.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Update_Supplier.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_supplier.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_vendor.resources
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\kj\Desktop\28-7-17 Update\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.issue.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_purchase.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_supplier.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_vendor.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.create_customer.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.issue.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_info.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_parts.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_patrs.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_sub_assembly.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_sub_assembly.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_sub_assembly.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_machine.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_machine.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_machine.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_password.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.login.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_customer.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form20.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_customer.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.menu.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_customer.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.create_parts.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.sub_assembly_information.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.machine_information.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_pats.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_add.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_update.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_view.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.supplier.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Update_Supplier.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_supplier.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_vendor.resources
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\kj\Desktop\29-7-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.sale.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_purchase.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_supplier.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_vendor.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.create_customer.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.issue.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_info.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.sale.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_parts.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_patrs.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_sub_assembly.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_sub_assembly.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_sub_assembly.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_machine.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_machine.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_machine.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_password.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.login.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_customer.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form20.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_customer.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.menu.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_customer.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.create_parts.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.sub_assembly_information.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.machine_information.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_pats.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_add.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_update.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_view.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.supplier.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Update_Supplier.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_supplier.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_vendor.resources
+C:\Users\kj\Desktop\2-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_purchase.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_supplier.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_vendor.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.create_customer.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.issue.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_info.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.sale.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_parts.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_patrs.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_sub_assembly.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_sub_assembly.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_sub_assembly.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_machine.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_machine.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_machine.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_password.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.login.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_customer.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form20.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_customer.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.menu.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_customer.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.create_parts.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.sub_assembly_information.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.machine_information.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_pats.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_update.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_view.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.supplier.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Update_Supplier.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_supplier.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_vendor.resources
+C:\Users\kj\Desktop\3-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\office.dll
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\office.xml
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_purchase.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_supplier.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_vendor.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.create_customer.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.issue.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_info.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.sale.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_parts.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_patrs.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_sub_assembly.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_sub_assembly.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_sub_assembly.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_machine.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_machine.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_machine.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_password.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.login.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_customer.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form20.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_customer.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.menu.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_customer.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.create_parts.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.sub_assembly_information.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.machine_information.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_pats.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_update.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_view.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.supplier.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Update_Supplier.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_supplier.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_vendor.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\kj\Desktop\4-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\office.dll
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\office.xml
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_purchase.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_supplier.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_vendor.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.create_customer.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.issue.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_info.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.sale.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_parts.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_patrs.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_sub_assembly.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_sub_assembly.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_sub_assembly.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_machine.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_machine.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_machine.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_password.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.login.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_customer.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form20.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_customer.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.menu.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_customer.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.create_parts.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.sub_assembly_information.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.machine_information.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_pats.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_update.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_view.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.supplier.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Update_Supplier.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_supplier.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_vendor.resources
+C:\Users\kj\Desktop\5-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\office.dll
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\office.xml
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_purchase.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_supplier.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_vendor.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.create_customer.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_issue.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.issue.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_info.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.sale.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_parts.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_patrs.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_sub_assembly.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_sub_assembly.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_sub_assembly.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_machine.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_machine.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_machine.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_password.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.login.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_customer.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form20.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_customer.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.menu.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_customer.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.create_parts.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.sub_assembly_information.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.machine_information.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_pats.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_update.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_view.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.supplier.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Update_Supplier.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_supplier.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_vendor.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.manufacture.resources
+C:\Users\kj\Desktop\6-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_sale.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\office.dll
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\office.xml
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_purchase.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_supplier.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_vendor.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.create_customer.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.manufacture.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_issue.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.issue.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_info.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.sale.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_parts.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_patrs.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_sale.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_sub_assembly.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_sub_assembly.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_sub_assembly.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_machine.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_machine.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_machine.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_password.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.login.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_customer.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form20.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_customer.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.menu.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_customer.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.create_parts.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.sub_assembly_information.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.machine_information.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_pats.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_update.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_view.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.supplier.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Update_Supplier.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_supplier.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_vendor.resources
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\Royal\Desktop\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.testing1.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\office.dll
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\office.xml
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_purchase.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_supplier.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_vendor.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.create_customer.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.manufacture.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.testing1.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_issue.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.issue.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_info.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.sale.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_parts.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_patrs.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_sale.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_sub_assembly.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_sub_assembly.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_sub_assembly.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_machine.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_machine.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_machine.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_password.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.login.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_customer.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form20.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.update_customer.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.menu.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.delete_customer.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.create_parts.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.sub_assembly_information.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.machine_information.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_pats.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_update.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.purchase_view.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.supplier.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Update_Supplier.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_supplier.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.view_vendor.resources
+C:\Users\kj\Desktop\New folder (4)\7-8-17\7-8-17\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache

@@ -1,0 +1,53 @@
+using System;
+using System.Data;
+using System.Configuration;
+using System.Collections;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Web.UI.HtmlControls;
+using System.Drawing;
+
+
+public partial class imageupload : System.Web.UI.Page
+{
+    protected void Page_Load(object sender, EventArgs e)
+    {
+
+    }
+    protected void btnUpload_Click(object sender, EventArgs e)
+    {
+         string sSavePath;  
+        sSavePath = "images1/";
+        if (filUpload.PostedFile != null)
+        {
+            HttpPostedFile myFile = filUpload.PostedFile;
+            int nFileLen = myFile.ContentLength;
+            if (nFileLen == 0)
+            {
+                lblOutput.Text = "There wasn't any file uploaded.";
+                return;
+            }
+            if (System.IO.Path.GetExtension(myFile.FileName).ToLower() != ".jpg" )
+            {
+                lblOutput.Text = "The file must have an extension of JPG";
+                return;
+            }
+            byte[] myData = new Byte[nFileLen];
+            myFile.InputStream.Read(myData, 0, nFileLen);
+            string sFilename = System.IO.Path.GetFileName(myFile.FileName);
+           
+           System.IO.FileStream newFile = new System.IO.FileStream(Server.MapPath(sSavePath + sFilename), System.IO.FileMode.Create);
+            newFile.Write(myData, 0, myData.Length);
+            newFile.Close();
+
+                Label1.Text = sSavePath + sFilename;
+              lblOutput.Text = "File uploaded successfully!";
+
+            
+            
+        }
+    }
+}

@@ -1,0 +1,68 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Data;
+using System.Data.SqlClient;
+
+public partial class Default3 : System.Web.UI.Page
+{
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        if (Page.IsPostBack == false)
+        {
+            view_class();
+            view_sec();
+            view_stuinfo();
+
+        }
+    }
+
+    private void view_stuinfo()
+    {
+        string c = DropDownList1.SelectedItem.Text;
+        string s = DropDownList2.SelectedItem.Text;
+        SqlDataAdapter adp = new SqlDataAdapter("select * from stuinfo where class='"+c+"' and section ='"+s+"'", "server=GAURAV;database=prac1;uid=sa;pwd=sa123");
+        DataSet ds = new DataSet();
+        adp.Fill(ds);
+        GridView1.DataSource = ds;
+        GridView1.DataBind();
+    }
+
+    private void view_class()
+    {
+        SqlDataAdapter adp=new SqlDataAdapter("Select Distinct(class) from Stuinfo","server=GAURAV;database=prac1;uid=sa;pwd=sa123");
+        DataSet ds=new DataSet();
+        adp.Fill(ds);
+        DropDownList1.DataSource=ds;
+        DropDownList1.DataBind();
+    }
+
+    private void view_sec()
+    {
+        string c = DropDownList1.SelectedItem.Text;
+        SqlDataAdapter adp=new SqlDataAdapter("Select Distinct(section) from Stuinfo where class='"+c+"'","server=GAURAV;database=prac1;uid=sa;pwd=sa123");
+        DataSet ds=new DataSet();
+        adp.Fill(ds);
+        DropDownList2.DataSource=ds;
+        DropDownList2.DataBind();
+    }
+
+
+
+    protected void GridView1_SelectedIndexChanged(object sender, EventArgs e)
+    {
+
+    }
+    protected void DropDownList1_SelectedIndexChanged(object sender, EventArgs e)
+    {
+        view_sec();
+        view_stuinfo();
+    }
+    protected void DropDownList2_SelectedIndexChanged(object sender, EventArgs e)
+    {
+        view_stuinfo();
+    }
+}

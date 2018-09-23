@@ -1,0 +1,121 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Data;
+using System.Data.SqlClient;
+
+public partial class Default2 : System.Web.UI.Page
+{
+    protected void Page_Load(object sender, EventArgs e)
+    {
+
+    }
+
+
+
+
+
+    private void fnx()
+    {
+        SqlConnection con = new SqlConnection();
+        con.ConnectionString = "server = GAURAV ; database = multipleselection  ;uid=sa;pwd=sa123 ";
+        con.Open();
+        SqlCommand cmd = new SqlCommand();
+        cmd.CommandText = "select COUNT(dd) as nos from attendence where roll=@r  ";
+        cmd.Parameters.Add("@r", SqlDbType.Int).Value = TextBox1.Text;
+        cmd.Connection = con;
+        cmd.ExecuteNonQuery();
+        SqlDataReader dr;
+        dr = cmd.ExecuteReader();
+        if (dr.HasRows)
+        {
+            dr.Read();
+            Label5.Text = dr["nos"].ToString();
+            
+
+
+        }
+        cmd.Dispose();
+        con.Close();
+
+ 
+       
+  
+    }
+
+
+    private void fnx1()
+    {
+        SqlConnection con = new SqlConnection();
+        con.ConnectionString = "server = GAURAV ; database = multipleselection  ;uid=sa;pwd=sa123 ";
+        con.Open();
+        SqlCommand cmd = new SqlCommand();
+        cmd.CommandText = "select count(DISTINCT (dd)) as no from attendence ";
+        
+        cmd.Connection = con;
+        cmd.ExecuteNonQuery();
+        SqlDataReader dr;
+        dr = cmd.ExecuteReader();
+        if (dr.HasRows)
+        {
+            dr.Read();
+            Label7.Text = dr["no"].ToString();
+        }
+        
+        cmd.Dispose();
+        con.Close();
+
+
+
+
+    }
+
+    protected void Button1_Click(object sender, EventArgs e)
+    {
+        SqlConnection con1 = new SqlConnection();
+        con1.ConnectionString = "server = GAURAV ; database = multipleselection  ;uid=sa;pwd=sa123 ";
+        con1.Open();
+        SqlCommand cmd1 = new SqlCommand();
+        cmd1.CommandText = "select names from stuinfo where roll=@r";
+        cmd1.Parameters.Add("@r", SqlDbType.Int).Value = TextBox1.Text;
+        cmd1.Connection = con1;
+        cmd1.ExecuteNonQuery();
+        SqlDataReader dr;
+        dr = cmd1.ExecuteReader();
+        if (dr.HasRows)
+        {
+            dr.Read();
+            TextBox2.Text = dr["names"].ToString();
+        }
+        else
+        {
+            Label6.Text = "INVALID ROLL NO.";
+        }
+        fnx();
+        fnx1();
+        int q = Convert.ToInt32(Label7.Text);
+        double a = Convert.ToDouble(Label5.Text);
+        double b = (a / q) * 100;
+        TextBox3.Text = Convert.ToString(b)+"%";
+        if (b > 70)
+        {
+            Label6.Text = "Eligible to sit in Exam";
+        }
+        else
+            if (b > 50 && b < 70)
+            {
+                Label6.Text = "Attendence is Short";
+            }
+            else
+                if (b < 40)
+                {
+                    Label6.Text = "Not Eligible to Sit  in Exam";
+                }
+
+        cmd1.Dispose();
+        con1.Close();
+    }
+}

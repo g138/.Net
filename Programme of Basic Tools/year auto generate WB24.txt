@@ -1,0 +1,66 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Data;
+using System.Data.SqlClient;
+
+public partial class Default6 : System.Web.UI.Page
+{
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        if (Page.IsPostBack == false)
+        {
+            
+                TextBox2.Text = Convert.ToString(getauto());
+            
+
+        }
+    }
+
+    private Int32 getauto()
+    {
+        int a = Convert.ToInt32(DropDownList1.SelectedItem.Text);
+        int b = a % 100;
+        int c = b * 100;
+        SqlConnection con = new SqlConnection();
+        con.ConnectionString = "server = (local) ; database = login ; integrated security = true ";
+        con.Open();
+        SqlCommand cmd = new SqlCommand();
+
+        cmd.CommandText = "select isnull(max(roll_no),"+c+") from stuinfo where years="+a;
+
+        cmd.Connection = con;
+        return Convert.ToInt32(cmd.ExecuteScalar()) + 1;
+    }
+    protected void DropDownList1_SelectedIndexChanged(object sender, EventArgs e)
+    {
+        TextBox2.Text = Convert.ToString(getauto());
+    }
+    protected void Button1_Click(object sender, EventArgs e)
+    {
+                SqlConnection con = new SqlConnection();
+        con.ConnectionString = "server = (local) ; database = login ; integrated security = true ";
+        con.Open();
+        SqlCommand cmd = new SqlCommand();
+
+        cmd.CommandText = "insert into stuinfo values(@y , @r, @n, @c, @s)";
+        cmd.Connection = con;
+        cmd.Parameters.Add("@y", SqlDbType.Int).Value = Convert.ToInt32(DropDownList1.SelectedItem.Text);
+        cmd.Parameters.Add("@r", SqlDbType.Int).Value = Convert.ToInt32(TextBox2.Text);
+        cmd.Parameters.Add("@n", SqlDbType.Char, 20).Value = (TextBox3.Text);
+        cmd.Parameters.Add("@c", SqlDbType.VarChar, 20).Value = (TextBox4.Text);
+        cmd.Parameters.Add("@s", SqlDbType.VarChar, 20).Value = (TextBox5.Text);
+        cmd.ExecuteNonQuery();
+        cmd.Dispose();
+        con.Close();
+        TextBox3.Text = " ";
+            TextBox4.Text = " " ;
+            TextBox5.Text = " ";
+            TextBox2.Text = Convert.ToString(getauto());
+    }
+}
+
+

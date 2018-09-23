@@ -1,0 +1,297 @@
+//Default2
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Data;
+using System.Data.SqlClient;
+
+public partial class Default2 : System.Web.UI.Page
+{
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        if (Page.IsPostBack == false)
+        {
+            TextBox1.Text = Convert.ToString(getauto());
+            TextBox7.Text = DateTime.Now.ToString();
+            bind();
+            bind1();
+            fnx();
+            view_bill();
+            fnx1();
+        }
+          
+    }
+
+    private Int32 getauto()
+    {
+        SqlConnection con = new SqlConnection();
+        con.ConnectionString = "Server=GAURAV;database=product;uid=sa;pwd=sa123";
+        con.Open();
+        SqlCommand cmd = new SqlCommand();
+
+        cmd.CommandText = "select isnull(max(bill_no),1000) from bill ";
+
+        cmd.Connection = con;
+        return Convert.ToInt32(cmd.ExecuteScalar()) + 1;
+    }
+
+    private void bind()
+    {
+        SqlDataAdapter adp = new SqlDataAdapter("select Distinct(cname) from product ", "server=GAURAV;database=product;uid=sa;pwd=sa123");
+        DataSet ds = new DataSet();
+        adp.Fill(ds);
+        DropDownList2.DataSource = ds;
+        DropDownList2.DataBind();
+    }
+
+    private void bind1()
+    {
+        string c = (DropDownList2.SelectedItem.Text);
+        SqlDataAdapter adp = new SqlDataAdapter("Select pname from product where cname='" + c + "'", "server=GAURAV;database=product;uid=sa;pwd=sa123");
+        DataSet ds = new DataSet();
+        adp.Fill(ds);
+        DropDownList1.DataSource = ds;
+        DropDownList1.DataBind();
+    }
+
+    private void view_bill()
+    {
+        int x = Convert.ToInt32(TextBox1.Text);
+        SqlDataAdapter adp = new SqlDataAdapter("select * from bill where bill_no='" + x + "'", "server=GAURAV;database=product;uid=sa;pwd=sa123");
+        DataSet ds = new DataSet();
+        adp.Fill(ds);
+        GridView1.DataSource = ds;
+        GridView1.DataBind();
+    }
+
+    private void fnx()
+    {
+        string p = DropDownList1.SelectedItem.Text;
+        string s = DropDownList2.SelectedItem.Text;
+        SqlConnection con1 = new SqlConnection();
+        con1.ConnectionString = "Server=GAURAV;database=product;uid=sa;pwd=sa123";
+        con1.Open();
+        SqlCommand cmd1 = new SqlCommand();
+        cmd1.CommandText = "select price from product where pname='"+ p +"'and cname='"+ s +"'";
+        cmd1.Connection = con1;
+        cmd1.Parameters.Add("@p",SqlDbType.VarChar,50).Value=p;
+        cmd1.Parameters.Add("@s",SqlDbType.VarChar,50).Value=s;
+        SqlDataReader dr;
+        dr = cmd1.ExecuteReader();
+        if (dr.HasRows)
+        {
+            dr.Read();
+            TextBox3.Text = dr["price"].ToString();
+        }    
+    }
+
+    
+    private void cal()
+    {
+        int a = Convert.ToInt32(TextBox3.Text);
+        int b = Convert.ToInt32(TextBox4.Text);
+        int c = a * b;
+        TextBox5.Text = Convert.ToString(c);
+    }
+
+    
+    private void fnx1()
+    {
+        SqlConnection con = new SqlConnection();
+        con.ConnectionString = "Server=GAURAV;database=product;uid=sa;pwd=sa123";
+        con.Open();
+        SqlCommand cmd = new SqlCommand();
+        cmd.CommandText = "SELECT SUM(tp) as nos from bill where bill_no=@b";
+        cmd.Connection = con;
+        cmd.Parameters.Add("@b", SqlDbType.Int).Value = Convert.ToInt32(TextBox1.Text);
+        SqlDataReader dr;
+        dr = cmd.ExecuteReader();
+        if (dr.HasRows)
+        {
+            dr.Read();
+            TextBox8.Text = dr["nos"].ToString();
+        }
+    }
+    private void bill_cal()
+    {
+        TextBox9.Text = "12.5";
+        TextBox12.Text = "10";
+
+        double q = Convert.ToDouble(TextBox9.Text);
+        double w = Convert.ToDouble(TextBox12.Text);
+        int e = Convert.ToInt32(TextBox8.Text);
+        double r = e - (e * (w / 100));
+        double t = r + (r * (q / 100));
+        TextBox11.Text = Convert.ToString(t);
+
+    }
+    protected void Button1_Click(object sender, EventArgs e)
+    {
+
+        cal(); 
+        SqlConnection con = new SqlConnection();
+        con.ConnectionString = "Server=GAURAV;database=product;uid=sa;pwd=sa123";
+        con.Open();
+        SqlCommand cmd = new SqlCommand();
+        cmd.CommandText = "insert into bill values(@b,@c,@ct,@p,@pp,@no,@tp)";
+        cmd.Connection = con;
+        cmd.Parameters.Add("@b",SqlDbType.Int).Value=Convert.ToInt32(TextBox1.Text);
+        cmd.Parameters.Add("@c",SqlDbType.Char,50).Value=TextBox6.Text;
+        cmd.Parameters.Add("@ct",SqlDbType.VarChar,50).Value=DropDownList2.SelectedItem.Text;
+        cmd.Parameters.Add("@p", SqlDbType.VarChar, 50).Value = DropDownList1.SelectedItem.Text;
+        cmd.Parameters.Add("@pp", SqlDbType.Int).Value = Convert.ToInt32(TextBox3.Text);
+        cmd.Parameters.Add("@no",SqlDbType.Int).Value=Convert.ToInt32(TextBox4.Text);
+        cmd.Parameters.Add("@tp",SqlDbType.Int).Value=Convert.ToInt32(TextBox5.Text);
+        cmd.ExecuteNonQuery();
+        cmd.Dispose();
+        con.Close();
+        fnx1();
+        view_bill();
+        
+    }
+
+    protected void DropDownList2_SelectedIndexChanged(object sender, EventArgs e)
+    {
+        bind1();
+        fnx();
+    }
+
+    protected void DropDownList1_SelectedIndexChanged(object sender, EventArgs e)
+    {
+        fnx();
+         
+    }
+
+    protected void GridView1_RowDeleting(object sender, GridViewDeleteEventArgs e)
+    {
+        string r = (((Label)(GridView1.Rows[e.RowIndex].FindControl("l1"))).Text);
+        SqlConnection con = new SqlConnection();
+        con.ConnectionString = "server = GAURAV ; database = product ;uid=sa;pwd=sa123 ";
+        con.Open();
+        SqlCommand cmd = new SqlCommand();
+        cmd.CommandText = "delete from bill where product=@r";
+        cmd.Connection = con;
+        cmd.Parameters.Add("@r", SqlDbType.VarChar).Value = r;
+        cmd.ExecuteNonQuery();
+        cmd.Dispose();
+        con.Close();
+        bind();
+    }
+
+    protected void Button2_Click(object sender, EventArgs e)
+    {
+        bill_cal();
+        SqlConnection con2 = new SqlConnection();
+        con2.ConnectionString = "server = GAURAV ; database = product ;uid=sa;pwd=sa123 ";
+        con2.Open();
+        SqlCommand cmd2 = new SqlCommand();
+        cmd2.CommandText = "insert into final_bill values(@b,@c,@t,@d,@ta,@p,@ti)";
+        cmd2.Connection = con2;
+        cmd2.Parameters.Add("@b",SqlDbType.Int).Value=Convert.ToInt32(TextBox1.Text);
+        cmd2.Parameters.Add("@c",SqlDbType.Char,50).Value=TextBox6.Text;
+        cmd2.Parameters.Add("@t",SqlDbType.Int).Value=Convert.ToInt32(TextBox8.Text);
+        cmd2.Parameters.Add("@d",SqlDbType.Float).Value=Convert.ToDouble(TextBox12.Text);
+        cmd2.Parameters.Add("ta",SqlDbType.Float).Value=Convert.ToDouble(TextBox9.Text);
+        cmd2.Parameters.Add("@p",SqlDbType.Float).Value=Convert.ToDouble(TextBox11.Text);
+        cmd2.Parameters.Add("@ti",SqlDbType.VarChar,50).Value=TextBox7.Text;
+        cmd2.ExecuteNonQuery();
+        cmd2.Dispose();
+        cmd2.Clone(); 
+        TextBox1.Text=Convert.ToString(getauto());
+        TextBox7.Text = DateTime.Now.ToString();
+        view_bill();
+        TextBox3.Text = "";
+        TextBox4.Text = "";
+        TextBox5.Text = "";
+        TextBox6.Text = "";
+        TextBox8.Text = "";
+        TextBox9.Text = "";
+        TextBox11.Text = "";
+        TextBox12.Text = "";
+
+    }
+
+}
+
+
+
+///Default3
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Data;
+using System.Data.SqlClient;
+
+public partial class Default3 : System.Web.UI.Page
+{
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        if (IsPostBack == false)
+        {
+            bind();
+        }
+    }
+
+    private void bind()
+    {
+        SqlDataAdapter adp = new SqlDataAdapter("select Distinct(cos_name) from final_bill ", "server=GAURAV;database=product;uid=sa;pwd=sa123");
+        DataSet ds = new DataSet();
+        adp.Fill(ds);
+        DropDownList1.DataSource = ds;
+        DropDownList1.DataBind();
+    }
+
+
+    private void view_detail()
+    {
+        string c = (DropDownList1.SelectedItem.Text);
+
+        SqlDataAdapter adp = new SqlDataAdapter("select * from final_bill where cos_name='" + c + "'", "server=GAURAV;database=product;uid=sa;pwd=sa123");
+        DataSet ds = new DataSet();
+        adp.Fill(ds);
+        GridView1.DataSource = ds;
+        GridView1.DataBind();
+    }
+
+    protected void DropDownList1_SelectedIndexChanged(object sender, EventArgs e)
+    {
+        view_detail();
+    }
+    protected void GridView1_SelectedIndexChanged(object sender, EventArgs e)
+    {
+
+
+    }
+
+    protected void Button1_Click(object sender, EventArgs e)
+    {
+        view_detail();
+        fnx1();
+    }
+    private void fnx1()
+    {
+        SqlConnection con = new SqlConnection();
+        con.ConnectionString = "Server=GAURAV;database=product;uid=sa;pwd=sa123";
+        con.Open();
+        SqlCommand cmd = new SqlCommand();
+        cmd.CommandText = "SELECT SUM(payable_amount) as nos from final_bill where cos_name=@c";
+        cmd.Connection = con;
+        cmd.Parameters.Add("@c", SqlDbType.Char,50).Value = DropDownList1.SelectedItem.Text;
+        SqlDataReader dr;
+        dr = cmd.ExecuteReader();
+        if (dr.HasRows)
+        {
+            dr.Read();
+            TextBox2.Text = dr["nos"].ToString();
+        }
+    }
+   
+}

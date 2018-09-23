@@ -1,0 +1,30 @@
+USE [searchm_inventory]
+GO
+
+/****** Object:  Table [dbo].[user_info]    Script Date: 12/24/2016 20:39:25 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[user_info](
+	[user_type] [char](50) NULL,
+	[uid] [int] NULL,
+	[name] [varchar](50) NULL,
+	[department] [varchar](50) NULL,
+	[designation] [varchar](500) NULL,
+	[contact_no] [varchar](50) NULL,
+	[email_id] [varchar](50) NULL,
+	[pwd] [varchar](50) NULL
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+

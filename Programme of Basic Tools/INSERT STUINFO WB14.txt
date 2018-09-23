@@ -1,0 +1,38 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Data;
+using System.Data.SqlClient;
+
+public partial class Default2 : System.Web.UI.Page
+{
+    protected void Page_Load(object sender, EventArgs e)
+    {
+
+    }
+    protected void Button1_Click(object sender, EventArgs e)
+    {
+        SqlConnection conc = new SqlConnection();
+        conc.ConnectionString = "Server=GAURAV;database=insertvalue;uid=sa;pwd=sa123";
+        conc.Open();
+        SqlCommand cmd = new SqlCommand();
+        cmd.CommandText = "insert into studentinfo values(@r,@n,@c,@s,@m)";
+        cmd.Connection = conc;
+        cmd.Parameters.Add("@r", SqlDbType.Int).Value = Convert.ToInt32(TextBox1.Text);
+        cmd.Parameters.Add("@n",SqlDbType.Char,20).Value=(TextBox2.Text);
+        cmd.Parameters.Add("@c",SqlDbType.VarChar,20).Value=(TextBox3.Text);
+        cmd.Parameters.Add("@s",SqlDbType.VarChar,20).Value=(TextBox4.Text);
+        cmd.Parameters.Add("@m",SqlDbType.Int).Value=Convert.ToInt32(TextBox5.Text);
+
+        cmd.ExecuteNonQuery();
+        cmd.Dispose();
+        conc.Close();
+
+
+
+
+    }
+}

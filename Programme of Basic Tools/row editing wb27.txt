@@ -1,0 +1,145 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Data;
+using System.Data.SqlClient;
+
+
+
+public partial class Default2 : System.Web.UI.Page
+{
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        if (Page.IsPostBack == false)
+        {
+            bind();
+        }
+
+    }
+    private void bind()
+    {
+        SqlDataAdapter adp = new SqlDataAdapter("select * from stuinfo", "server=GAURAV;database=prac1;uid=sa;pwd=sa123");
+        DataSet ds = new DataSet();
+        adp.Fill(ds);
+        GridView1.DataSource = ds;
+        GridView1.DataBind();
+    }
+
+    protected void GridView1_RowEditing(object sender, GridViewEditEventArgs e)
+    {
+        GridView1.EditIndex = e.NewEditIndex;
+        bind();
+    }
+    protected void GridView1_RowCancelingEdit(object sender, GridViewCancelEditEventArgs e)
+    {
+        GridView1.EditIndex = -1;
+        bind();
+    }
+    protected void GridView1_RowUpdating(object sender, GridViewUpdateEventArgs e)
+    {
+        int r = Convert.ToInt32(((Label)(GridView1.Rows[e.RowIndex].FindControl("l6"))).Text);
+        String n= (((TextBox)(GridView1.Rows[e.RowIndex].FindControl("t1"))).Text);
+       String c = (((TextBox)(GridView1.Rows[e.RowIndex].FindControl("t2"))).Text);
+        String s = (((TextBox)(GridView1.Rows[e.RowIndex].FindControl("t3"))).Text);
+        int m = Convert.ToInt32(((TextBox)(GridView1.Rows[e.RowIndex].FindControl("t4"))).Text);
+
+
+        Response.Write(r);
+
+
+        SqlConnection con = new SqlConnection();
+        con.ConnectionString = "server = GAURAV ; database = prac1 ;uid=sa;pwd=sa123 ";
+        con.Open();
+        SqlCommand cmd = new SqlCommand();
+        cmd.CommandText = " update stuinfo set class=@c,section=@s,marks=@m,names=@n where roll_no=@r ";
+        cmd.Connection = con;
+        cmd.Parameters.Add("@r", SqlDbType.Int).Value = r;
+        cmd.Parameters.Add("@n", SqlDbType.Char,20).Value = n;
+        cmd.Parameters.Add("@c", SqlDbType.VarChar,50).Value = c;
+        cmd.Parameters.Add("@s", SqlDbType.VarChar,50).Value = s;
+        cmd.Parameters.Add("@m", SqlDbType.Int).Value = m;
+        cmd.ExecuteNonQuery();
+        cmd.Dispose();
+        con.Close();
+        GridView1.EditIndex = -1;
+        bind();
+       
+    }
+}
+
+
+HTML
+
+
+
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Default2.aspx.cs" Inherits="Default2" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+    
+        <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" 
+            Height="304px" Width="552px" onrowediting="GridView1_RowEditing" 
+            onrowcancelingedit="GridView1_RowCancelingEdit" 
+            onrowupdating="GridView1_RowUpdating">
+            <Columns>
+                <asp:TemplateField HeaderText="ROLL NO">
+                <ItemTemplate>
+                <asp:Label ID="l1" Text=<%# Eval("roll_no") %> runat="server"></asp:Label>
+                </ItemTemplate>
+                <EditItemTemplate>
+                <asp:Label ID="l6" Text=<%# Eval("roll_no") %> runat="server"></asp:Label>
+                </EditItemTemplate>
+                </asp:TemplateField>
+
+
+                <asp:TemplateField HeaderText="NAME">
+                <ItemTemplate>
+                <asp:Label ID="l2" Text=<%# Eval("names") %> runat="server"></asp:Label>
+                </ItemTemplate>
+            <EditItemTemplate>
+            <asp:TextBox ID="t1" Text=<%# Eval("names") %> runat="server"></asp:TextBox>
+            </EditItemTemplate>
+                </asp:TemplateField>
+                <asp:TemplateField HeaderText="CLASS">
+                <ItemTemplate>
+                <asp:Label ID="l3" Text=<%# Eval("class") %> runat="server"></asp:Label>
+                </ItemTemplate>
+                <EditItemTemplate>
+                <asp:TextBox ID="t2" Text=<%# Eval("class") %> runat="server"></asp:TextBox>
+                </EditItemTemplate>
+            
+                </asp:TemplateField>
+                <asp:TemplateField HeaderText="SECTION">
+                <ItemTemplate>
+                <asp:Label ID="l4" Text=<%# Eval("section") %> runat="server"></asp:Label>
+                </ItemTemplate>
+            <EditItemTemplate>
+                <asp:TextBox ID="t3" Text=<%# Eval("section") %> runat="server"></asp:TextBox>
+            </EditItemTemplate>
+                </asp:TemplateField>
+                <asp:TemplateField HeaderText="MARKS">
+                <ItemTemplate>
+                <asp:Label ID="l5" Text=<%# Eval("marks") %> runat="server"></asp:Label>
+                </ItemTemplate>
+            <EditItemTemplate>
+                <asp:TextBox ID="t4" Text=<%# Eval("marks") %> runat="server"></asp:TextBox>
+            </EditItemTemplate>
+                </asp:TemplateField>
+                <asp:CommandField ButtonType="Button" HeaderText="Edit" ShowEditButton="True" />
+            </Columns>
+        </asp:GridView>
+    
+    </div>
+    </form>
+</body>
+</html>
